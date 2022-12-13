@@ -2,7 +2,7 @@ import { ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { todoComponent } from './todo.component';
 
-describe('TodoComponent', () => {
+describe('ToDoComponent', () => {
   let component: todoComponent;
   let fixture: ComponentFixture<todoComponent>;
 
