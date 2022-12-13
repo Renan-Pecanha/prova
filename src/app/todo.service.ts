@@ -1,4 +1,4 @@
-import { ToDo } from './ToDo';
+import { Todo } from './todo/todo.component';
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
